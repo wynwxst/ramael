@@ -1,0 +1,11 @@
+README.md
+setup.py
+spyrael/__init__.py
+spyrael/encode.py
+spyrael/poster.py
+spyrael/streaminghttp.py
+spyrael/utils.py
+spyrael.egg-info/PKG-INFO
+spyrael.egg-info/SOURCES.txt
+spyrael.egg-info/dependency_links.txt
+spyrael.egg-info/top_level.txt

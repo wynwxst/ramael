@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: spyrael
+Version: 0.0.1
+Summary: An elegeant http requests library for python
+Home-page: http://github.com/Ehnryu/spyrael
+Author: Ehnryu/Sakurai07
+Author-email: blzzardst0rm@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: spyrael,requests,http
+Platform: UNKNOWN
