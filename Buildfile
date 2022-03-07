@@ -1,6 +1,6 @@
 @function clean:
 rm -rf dist
-rm -rf spyrael.egg-info
+rm -rf ramael.egg-info
 \endfunc
 
 @function build:

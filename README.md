@@ -1,23 +1,20 @@
-# Spyral
-cancel the s, python requests apex library - spyral
-
-
-kinda spaced out on the a but top so apex
+# Ramael
+Ramael - An elegant http library focused on simplicity
 
 
 ### About:
 An elegant modern http requests library for python
 
 ### Installtion:
-`pip install spyrael`
+`pip install ramael`
 
 ### Usage:
 ```python
-import spyrael
-req = spyrael.request(method="GET",url="someurl",headers={},callback=None,auth=None)
+import ramael
+req = ramael.request(method="GET",url="someurl",headers={},callback=None,auth=None)
 # or for a oneliner:
-r = spyrael.request("GET",url="someurl")
-# methods for the spyrael object
+r = ramael.request("GET",url="someurl")
+# methods for the ramael object
 req.headers # headers in json format
 req.raw_headers # headers in an object
 req.status # Status eg 200
