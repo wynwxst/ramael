@@ -50,4 +50,5 @@ In case of the binary not working:
 
 ### Todo:
 make a binary for it
+`.cli`
 
